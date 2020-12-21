@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/webstore-bikes/static/css/main.ff7a8ac1.chunk.css",
-    "main.js": "/webstore-bikes/static/js/main.cbda2995.chunk.js",
-    "main.js.map": "/webstore-bikes/static/js/main.cbda2995.chunk.js.map",
+    "main.js": "/webstore-bikes/static/js/main.d0d7713b.chunk.js",
+    "main.js.map": "/webstore-bikes/static/js/main.d0d7713b.chunk.js.map",
     "runtime-main.js": "/webstore-bikes/static/js/runtime-main.6f7f325d.js",
     "runtime-main.js.map": "/webstore-bikes/static/js/runtime-main.6f7f325d.js.map",
     "static/js/2.c2caac49.chunk.js": "/webstore-bikes/static/js/2.c2caac49.chunk.js",
     "static/js/2.c2caac49.chunk.js.map": "/webstore-bikes/static/js/2.c2caac49.chunk.js.map",
     "index.html": "/webstore-bikes/index.html",
-    "precache-manifest.35488346da4fe55d08e6c681e3c1977d.js": "/webstore-bikes/precache-manifest.35488346da4fe55d08e6c681e3c1977d.js",
+    "precache-manifest.df4230159f97fa8a61b3775d57dfc19c.js": "/webstore-bikes/precache-manifest.df4230159f97fa8a61b3775d57dfc19c.js",
     "service-worker.js": "/webstore-bikes/service-worker.js",
     "static/css/main.ff7a8ac1.chunk.css.map": "/webstore-bikes/static/css/main.ff7a8ac1.chunk.css.map",
     "static/js/2.c2caac49.chunk.js.LICENSE.txt": "/webstore-bikes/static/js/2.c2caac49.chunk.js.LICENSE.txt",
@@ -38,6 +38,6 @@
     "static/js/runtime-main.6f7f325d.js",
     "static/js/2.c2caac49.chunk.js",
     "static/css/main.ff7a8ac1.chunk.css",
-    "static/js/main.cbda2995.chunk.js"
+    "static/js/main.d0d7713b.chunk.js"
   ]
 }

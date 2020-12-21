@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "83e71c8db9740ee24f90b184da8ef4bb",
+    "revision": "8584317a1eab937958419f204b1eb5a3",
     "url": "/webstore-bikes/index.html"
   },
   {
-    "revision": "fbb4fd284af2696b1712",
+    "revision": "ab572db85432d989b3bf",
     "url": "/webstore-bikes/static/css/main.ff7a8ac1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/webstore-bikes/static/js/2.c2caac49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbb4fd284af2696b1712",
-    "url": "/webstore-bikes/static/js/main.cbda2995.chunk.js"
+    "revision": "ab572db85432d989b3bf",
+    "url": "/webstore-bikes/static/js/main.d0d7713b.chunk.js"
   },
   {
     "revision": "b174a8fe7c197d001581",
