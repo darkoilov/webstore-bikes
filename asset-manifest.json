@@ -1,22 +1,43 @@
 {
   "files": {
     "main.css": "/webstore-bikes/static/css/main.ff7a8ac1.chunk.css",
-    "main.js": "/webstore-bikes/static/js/main.cea45c9b.chunk.js",
-    "main.js.map": "/webstore-bikes/static/js/main.cea45c9b.chunk.js.map",
+    "main.js": "/webstore-bikes/static/js/main.cbda2995.chunk.js",
+    "main.js.map": "/webstore-bikes/static/js/main.cbda2995.chunk.js.map",
     "runtime-main.js": "/webstore-bikes/static/js/runtime-main.6f7f325d.js",
     "runtime-main.js.map": "/webstore-bikes/static/js/runtime-main.6f7f325d.js.map",
-    "static/js/2.88fa1ab5.chunk.js": "/webstore-bikes/static/js/2.88fa1ab5.chunk.js",
-    "static/js/2.88fa1ab5.chunk.js.map": "/webstore-bikes/static/js/2.88fa1ab5.chunk.js.map",
+    "static/js/2.c2caac49.chunk.js": "/webstore-bikes/static/js/2.c2caac49.chunk.js",
+    "static/js/2.c2caac49.chunk.js.map": "/webstore-bikes/static/js/2.c2caac49.chunk.js.map",
     "index.html": "/webstore-bikes/index.html",
-    "precache-manifest.2eb048f41e02523d972c0324107d2484.js": "/webstore-bikes/precache-manifest.2eb048f41e02523d972c0324107d2484.js",
+    "precache-manifest.35488346da4fe55d08e6c681e3c1977d.js": "/webstore-bikes/precache-manifest.35488346da4fe55d08e6c681e3c1977d.js",
     "service-worker.js": "/webstore-bikes/service-worker.js",
     "static/css/main.ff7a8ac1.chunk.css.map": "/webstore-bikes/static/css/main.ff7a8ac1.chunk.css.map",
-    "static/js/2.88fa1ab5.chunk.js.LICENSE.txt": "/webstore-bikes/static/js/2.88fa1ab5.chunk.js.LICENSE.txt"
+    "static/js/2.c2caac49.chunk.js.LICENSE.txt": "/webstore-bikes/static/js/2.c2caac49.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/webstore-bikes/static/media/1.c5929d10.png",
+    "static/media/10.png": "/webstore-bikes/static/media/10.d363ea45.png",
+    "static/media/11.png": "/webstore-bikes/static/media/11.6e5d9cc9.png",
+    "static/media/12.png": "/webstore-bikes/static/media/12.8dd18211.png",
+    "static/media/13.png": "/webstore-bikes/static/media/13.18e5248b.png",
+    "static/media/14.png": "/webstore-bikes/static/media/14.6c80d798.png",
+    "static/media/15.png": "/webstore-bikes/static/media/15.f6be872d.png",
+    "static/media/16.png": "/webstore-bikes/static/media/16.98c11d98.png",
+    "static/media/17.png": "/webstore-bikes/static/media/17.10d17fb8.png",
+    "static/media/18.png": "/webstore-bikes/static/media/18.80ece113.png",
+    "static/media/19.png": "/webstore-bikes/static/media/19.6ec7d851.png",
+    "static/media/2.png": "/webstore-bikes/static/media/2.aaaaa0d8.png",
+    "static/media/20.png": "/webstore-bikes/static/media/20.fd0398a7.png",
+    "static/media/3.png": "/webstore-bikes/static/media/3.71a5b432.png",
+    "static/media/4.png": "/webstore-bikes/static/media/4.a304e19c.png",
+    "static/media/5.png": "/webstore-bikes/static/media/5.24004c5c.png",
+    "static/media/6.png": "/webstore-bikes/static/media/6.6bb6b95d.png",
+    "static/media/7.png": "/webstore-bikes/static/media/7.189ef5f6.png",
+    "static/media/8.png": "/webstore-bikes/static/media/8.0324808e.png",
+    "static/media/9.png": "/webstore-bikes/static/media/9.eefd24d5.png",
+    "static/media/logo.png": "/webstore-bikes/static/media/logo.c13afca7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.6f7f325d.js",
-    "static/js/2.88fa1ab5.chunk.js",
+    "static/js/2.c2caac49.chunk.js",
     "static/css/main.ff7a8ac1.chunk.css",
-    "static/js/main.cea45c9b.chunk.js"
+    "static/js/main.cbda2995.chunk.js"
   ]
 }
